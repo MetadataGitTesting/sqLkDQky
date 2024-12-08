@@ -1,0 +1,57 @@
+name: kandace.cassin
+description: initiative
+version: 0.0.1
+author: fcwwhxnl.iyic9odz@vkpyldlr.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: kandacecassin
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 20:37:51'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 20:37:51'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T20:37:51.646655Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '1012651976'
+  createdAt: '2024-12-08T20:37:51.646655Z'
+  type: plibMaven
+projectDependencies:
+  '387':
+    projectUID: 387
+    projectName: barton.ward
+    repositoryPath: gitUri=http://gitserver:3000/dev_ybC2oJdq_team_644/dev_ybC2oJdq_project_387.git&subPath=
+    version: barton.ward/0.5.2.145
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 20:37:51'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
